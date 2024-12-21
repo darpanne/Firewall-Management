@@ -1,2 +1,32 @@
-# Firewall-Management
-A comprehensive collection of labs and configurations showcasing skills in firewall management and network monitoring using Cisco, Palo Alto, and pfSense firewalls.
+# Firewall Management and Network Monitoring
+
+## Objective
+This repository demonstrates practical experience in firewall management and network monitoring across different platforms, including Cisco, Palo Alto, and pfSense. The focus is on securing networks, configuring advanced features, and ensuring reliable monitoring for potential threats.
+
+## Skills Learned
+- Configuring security policies and access control.
+- Implementing NAT, VPNs, and SSL decryption.
+- Managing intrusion detection and prevention systems.
+- Monitoring and analyzing network traffic logs.
+- Troubleshooting advanced network issues.
+- Utilizing open-source and commercial firewall tools effectively.
+
+## Tools Used
+- **Firewalls**: Cisco, Palo Alto, pfSense.
+- **Networking Tools**: Wireshark, Syslog servers, VPN tools.
+- **Monitoring and Analysis**: Traffic dashboards, log analyzers.
+- **Virtualization**: VMware, VirtualBox.
+
+## Tasks
+Explore detailed tasks and configurations performed for each firewall type through the links below:
+
+### [Cisco Firewall Tasks](#link-to-cisco-firewall-tasks)
+- Configure and manage Cisco firewalls, including ACLs, NAT, and monitoring traffic.
+
+### [Palo Alto Firewall Tasks](#link-to-palo-alto-firewall-tasks)
+- Advanced configurations for Palo Alto firewalls, including VPNs, IPS, and SSL decryption.
+
+### [pfSense Firewall Tasks](#link-to-pfsense-firewall-tasks)
+- Utilize pfSense for open-source firewall tasks, including PKI, key management, and tunneling.
+
+
