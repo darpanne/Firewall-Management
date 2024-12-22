@@ -1,7 +1,7 @@
 # Firewall Management and Network Monitoring
 
 ## Objective
-This repository demonstrates practical experience in firewall management and network monitoring across different platforms, including Cisco, Palo Alto, and pfSense. The focus is on securing networks, configuring advanced features, and ensuring reliable monitoring for potential threats.
+This repository demonstrates practical experience in firewall management and network monitoring across different platforms, including Cisco, Palo Alto, and pfSense.
 
 ## Skills Learned
 - Configuring security policies and access control.
