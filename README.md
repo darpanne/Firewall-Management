@@ -23,7 +23,7 @@ Explore detailed tasks and configurations performed for each firewall type throu
 ### [Palo Alto Firewall Tasks](https://github.com/darpanne/Palo-Alto)
 - Configured advanced Palo Alto firewall features to secure enterprise networks, including VPNs, IPS, and traffic monitoring.
   
-### [Cisco Firewall Tasks](#link-to-cisco-firewall-tasks)
+### [Cisco Firewall Tasks](https://github.com/darpanne/Cisco)
 - Configure and manage Cisco firewalls, including ACLs, NAT, and monitoring traffic.
 
 ### [pfSense Firewall Tasks](#link-to-pfsense-firewall-tasks)
