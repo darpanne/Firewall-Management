@@ -20,11 +20,11 @@ This repository demonstrates practical experience in firewall management and net
 ## Tasks
 Explore detailed tasks and configurations performed for each firewall type through the links below:
 
+### [Palo Alto Firewall Tasks](https://github.com/darpanne/Palo-Alto)
+- Advanced configurations for Palo Alto firewalls, including VPNs, IPS, and SSL decryption.
+- 
 ### [Cisco Firewall Tasks](#link-to-cisco-firewall-tasks)
 - Configure and manage Cisco firewalls, including ACLs, NAT, and monitoring traffic.
-
-### [Palo Alto Firewall Tasks](#link-to-palo-alto-firewall-tasks)
-- Advanced configurations for Palo Alto firewalls, including VPNs, IPS, and SSL decryption.
 
 ### [pfSense Firewall Tasks](#link-to-pfsense-firewall-tasks)
 - Utilize pfSense for open-source firewall tasks, including PKI, key management, and tunneling.
