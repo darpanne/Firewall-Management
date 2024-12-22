@@ -26,7 +26,7 @@ Explore detailed tasks and configurations performed for each firewall type throu
 ### [Cisco Firewall Tasks](https://github.com/darpanne/Cisco)
 - Configure and manage Cisco firewalls, including ACLs, NAT, and monitoring traffic.
 
-### [pfSense Firewall Tasks](#link-to-pfsense-firewall-tasks)
+### [pfSense Firewall Tasks](https://github.com/darpanne/pfSense)
 - Utilize pfSense for open-source firewall tasks, including PKI, key management, and tunneling.
 
 
