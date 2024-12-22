@@ -22,7 +22,7 @@ Explore detailed tasks and configurations performed for each firewall type throu
 
 ### [Palo Alto Firewall Tasks](https://github.com/darpanne/Palo-Alto)
 - Advanced configurations for Palo Alto firewalls, including VPNs, IPS, and SSL decryption.
-- 
+  
 ### [Cisco Firewall Tasks](#link-to-cisco-firewall-tasks)
 - Configure and manage Cisco firewalls, including ACLs, NAT, and monitoring traffic.
 
